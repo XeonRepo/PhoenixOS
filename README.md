@@ -30,6 +30,10 @@ The kernel is written in **C** and **ARM Assembly**, and is tested on the **QEMU
 - ✅ **Portable** — runs on any ARM Cortex-M3 based chip
 
 ---
+## Demo Screenshot
+<p align="center">
+  <img src="./Demo.png" width="100%" alt="XEON LAB — Armaan Ahemad">
+</p>
 
 ## 🎯 Project Objectives
 
