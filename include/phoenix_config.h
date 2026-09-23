@@ -1,0 +1,10 @@
+#ifndef PHOENIX_CONFIG_H
+#define PHOENIX_CONFIG_H
+
+#define PHOENIX_MAX_TASKS        16
+#define PHOENIX_MAX_PRIORITIES   8
+#define PHOENIX_TICK_RATE_HZ     100
+#define SYSTEM_CLOCK_HZ          25000000UL
+#define PHOENIX_IDLE_STACK_SIZE  256
+
+#endif
